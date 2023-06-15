@@ -1,0 +1,7 @@
+---
+name: hello_action
+pack: first_helloworld_pack
+runner_type: python-script
+description: This action will print hello world
+enabled: true
+entry_point: hello_action.py
